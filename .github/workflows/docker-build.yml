@@ -1,4 +1,6 @@
 # This is a basic workflow to help you get started with Actions
+# Changing something to see what happen with le tag of the docker
+# image
 name: Docker Build and Push
 
 # Controls when the action will run. Triggers the workflow on push or pull request
